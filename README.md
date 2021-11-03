@@ -1,8 +1,9 @@
 # Hello, Tamara 👋
 
-- :woman_technologist: I am student of Analysis and Systems Development
-- :brazil:  Born in Uberaba - MG
-- :studio_microphone: I am singer 
+- :woman_technologist: Graduanda em Análise e Desenvolvimento de Sistemas 
+- 💻 Estudante da Laboratória - Brazil
+- :studio_microphone:Cantora
+- 🖍 Sempre em busca de novos aprendizados e desafios
 
 
 <div align="center">
