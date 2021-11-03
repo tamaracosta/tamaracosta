@@ -2,7 +2,6 @@
 
 - :woman_technologist: I am student of Analysis and Systems Development
 - :brazil:  Born in Uberaba - MG
-- :computer: I was learning about IT world's
 - :studio_microphone: I am singer 
 
 
