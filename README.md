@@ -1,7 +1,7 @@
 # Hello, Tamara 👋
 
 - :woman_technologist: Graduanda em Análise e Desenvolvimento de Sistemas 
-- 💻 Estudante da Laboratória - Brazil
+- 💻 Estudante da Laboratória - Brasil
 - :studio_microphone:Cantora
 - 🖍 Sempre em busca de novos aprendizados e desafios
 
