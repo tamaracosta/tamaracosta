@@ -2,7 +2,7 @@
 
 - :woman_technologist: Graduanda em Análise e Desenvolvimento de Sistemas 
 - 💻 Estudante da Laboratória - Brasil
-- :studio_microphone:Cantora
+- :studio_microphone: Cantora
 - 🖍 Sempre em busca de novos aprendizados e desafios
 
 
