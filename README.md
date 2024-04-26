@@ -1,4 +1,6 @@
-# Hello, Tamara 👋
+<div style="order: 2; margin: 0 0 0 0; padding-top: 80px; text-align: left;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F6F7CC&vCenter=true&repeat=false&width=435&lines=Hello+and+Welcome" alt="Hello and Welcome 👽" />
+</div>
 
 - :woman_technologist: Graduada em Análise e Desenvolvimento de Sistemas 
 - 💻 Graduada da 6ª Geração da Laboratória - Brasil
